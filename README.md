@@ -1,10 +1,10 @@
 -##  maisa   ##
 - oii,eu sou maisa lima
 - estudo em uma escola publica 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀estou interessada em computação
+- 🌱 estou aprendendo a criar sites
+- 💞️ meu principal meio de estudo e pelo meu email maisa.wenglarek@escola.pr.gov.br
+
 
 <!---
 maisadelimawenglarek/maisadelimawenglarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
